@@ -1,0 +1,6 @@
+alembic==1.6.5
+sqlacodegen>=2.3.0
+SQLAlchemy>=1.4.18
+Flask>=2.0.1
+Flask-API>=3.0.post1
+Flask-SQLAlchemy>=2.5.1
